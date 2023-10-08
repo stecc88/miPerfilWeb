@@ -1,0 +1,29 @@
+.navbar-light{
+    background-color: #03c855;        
+}
+
+.navbar-collapse{
+    justify-content: space-between;
+    
+    align-items: center;
+}
+
+.card {
+    background-color: #03c855;
+}
+
+.footer1{
+    background-color: #03c855;
+}
+
+
+
+
+@media screen and (max-width:767px){
+    .navbar-brand{
+        display:none;
+    }
+    
+}
+
+
